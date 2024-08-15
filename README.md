@@ -1,2 +1,2 @@
 # Shodh
-Researches for ResearcherS 
+Researches for Researchers
